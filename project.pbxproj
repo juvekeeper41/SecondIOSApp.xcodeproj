@@ -286,6 +286,7 @@
 				1C38C3631D9965F80026E89C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
